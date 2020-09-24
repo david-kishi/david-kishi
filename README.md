@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome to David's GitHub! 👋
 
-<!--
-**david-kishi/david-kishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Currently seeking an Entry-Level Software Development Engineer role in the Aerospace industry***
 
-Here are some ideas to get you started:
+**What I'm currently working on:**
+* [Automating SpaceX's Dragon-2 ISS Docking Simulator](https://github.com/david-kishi/automated-iss-sim)
+* Learning RTOS (Real-Time Operating System) using an Arduino Uno
+* [Learning Go Programming Language](https://golang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Things I want to learn soon:**
+* AWS, Azure, and other server/cloud services
+* [Complete NASA's ARSET training](https://arset.gsfc.nasa.gov/)
+
+**Technical Skills:** 
+* C++, Python, Assembly, HTML, Javascript, Git
+* Knowledge of React, SQL, Postgres, MongoDB, Tableau, Matplotlib, Pandas, Numpy
+
+**Interests/Passions/Hobbies**
+* Space Exploration 🚀
+* Photography 📸
+* Snowboarding 🏂
