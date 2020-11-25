@@ -11,7 +11,7 @@
 
 **Technical Skills:** 
 * C++, Python, Assembly, HTML, Javascript, Git
-* Knowledge of React, SQL, Postgres, MongoDB, Tableau, Matplotlib, Pandas, Numpy
+* Knowledge of CUDA, MPI, OpenMPI, React, SQL, Postgres, MongoDB, Tableau, Matplotlib, Pandas, Numpy
 
 **Interests/Passions/Hobbies**
 * Space Exploration 🚀
