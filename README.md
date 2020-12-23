@@ -9,7 +9,7 @@
 * Studying NASA's 4-D System - *[How NASA Builds Teams](https://www.amazon.com/How-NASA-Builds-Teams-Scientists/dp/0470456485)*
 
 **Things I want to learn soon:**
-* Learn RTOS and VxWorks
+* Learn RTOS with [FreeRTOS](https://www.freertos.org/)
 * [Complete NASA's ARSET training](https://arset.gsfc.nasa.gov/)
 
 **Technical Skills:** 
