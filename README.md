@@ -11,7 +11,6 @@
 **Things I want to learn soon:**
 * Learning Systems Engineering through Steven Dobb's CPP lectures and Blanchard's *Systems Engineering and Analysis*
 * Learn RTOS with [FreeRTOS](https://www.freertos.org/)
-* [Complete NASA's ARSET training](https://arset.gsfc.nasa.gov/)
 
 **Technical Skills:** 
 * C++, Python, Assembly, HTML, Javascript, Git
