@@ -5,7 +5,7 @@
 **What I'm currently working on:**
 * [Automating SpaceX's Dragon-2 ISS Docking Simulator](https://github.com/david-kishi/automated-iss-sim)
 * Learning AWS and preparing for an AWS developer certification
-* Learning Modern C++ with Visual Studio
+* Learning Modern C++ with Visual Studio 2019
 * Studying NASA's 4-D System - *[How NASA Builds Teams](https://www.amazon.com/How-NASA-Builds-Teams-Scientists/dp/0470456485)*
 
 **Things I want to learn soon:**
