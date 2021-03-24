@@ -1,7 +1,5 @@
 ### Welcome to David's GitHub! 👋
 
-***Currently seeking an Entry-Level Software Development Engineer role in the Aerospace industry***
-
 **What I'm currently working on:**
 * [Automating SpaceX's Dragon-2 ISS Docking Simulator](https://github.com/david-kishi/automated-iss-sim)
 * Learning Modern C++ with Visual Studio 2019
